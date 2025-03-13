@@ -4,5 +4,6 @@ public class prog1 {
 	Sytem.out.println("Kurt Smith Clark");
 	Sytem.out.println("BSIT 2-L");
 	Sytem.out.println("Navy Blue");
+	Sytem.out.println("Liit");
   }
 }
